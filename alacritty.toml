@@ -82,6 +82,7 @@ bindings = [
   { key = "Minus", mods = "Control", action = "DecreaseFontSize" },
   { key = "Minus", mods = "Control", action = "DecreaseFontSize" },
   { key = "f", mods = "Command", action = "None" },
+  { key = "I", mods = "Control", chars = "\u001b[73;5u"}
 ]
 
 [general]
